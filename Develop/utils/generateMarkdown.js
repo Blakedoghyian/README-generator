@@ -22,13 +22,22 @@ function generateMarkdown(data) {
 
   ## Installation 
 
+  ${data.installation}
+
   ## Usage
+
+  ${data.usage}
 
   ## License
 
+
   ## Contributing
 
+  ${data.contribution}
+
   ## Tests
+
+  ${data.test}
 
   ### Questions
 
