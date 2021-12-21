@@ -1,4 +1,5 @@
-# Professional README Generator Starter Code
+# Professional README Generator 
+
 # Instructions
 * GIVEN a command-line application that accepts user input
 * WHEN I am prompted for information about my application repository
@@ -12,5 +13,14 @@
 * WHEN I enter my GitHub username
 * WHEN I click on the links in the Table of Contents
 * THEN I am taken to the corresponding section of the README
+
+# Repository link
+https://github.com/blakedoghyian/README-generator
+
+# screenshot
+
+# video walkthrough
+
+
 
 [How to create a Professional README](./readme-guide.md)
