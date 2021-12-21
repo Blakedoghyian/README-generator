@@ -82,6 +82,12 @@ const promptUser = [
                     return false;
                 }
             }
+        },
+        {
+            type: 'checkbox',
+            name: 'license',
+            message: 'Please select a license.',
+            choices: ['Apache', 'MIT', 'ISC','GNU', 'N/A'],
         }
 ];
 // TODO: Create a function to write README file
