@@ -60,7 +60,7 @@ const promptUser = [
         {
             type: 'input',
             name: 'contribution',
-            message: 'Who contributed on this project? (Required)',
+            message: 'Who contributed on this project? Please enter their GitHub username. (Required)',
             validate: contributionInput => {
                 if (contributionInput) {
                     return true;
@@ -88,7 +88,13 @@ const promptUser = [
             name: 'license',
             message: 'Please select a license.',
             choices: ['Apache', 'MIT', 'ISC','GNU', 'N/A'],
-        }
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: 'Please enter your email address to be reached for questions',
+        },
+        
 ];
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
