@@ -18,9 +18,10 @@
 https://github.com/blakedoghyian/README-generator
 
 # screenshot
+![Screenshot (34)](https://user-images.githubusercontent.com/91994720/146876460-49c27be4-b7a0-4e60-b59d-551d56dff544.png)
 
 # video walkthrough
-
+https://watch.screencastify.com/v/DBUCgcVXqJK89so90grL
 
 
 [How to create a Professional README](./readme-guide.md)
